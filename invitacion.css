@@ -12,11 +12,10 @@ body {
     font-size: 1rem;
     margin: 0;
     padding: 0;
-
+    background-color: #8457AD;
 }
 
 .Principal {
-    background-color: #8457AD;
     background-image: url("Imagenes/principal.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
