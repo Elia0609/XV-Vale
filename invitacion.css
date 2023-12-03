@@ -16,6 +16,7 @@ body {
 }
 
 .Principal {
+    background-color: #8457AD;
     background-image: url("Imagenes/principal.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
